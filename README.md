@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Tiago Sena from Brazil, iḿ a computer science student. I love studying Programming languages, especially C and Rust. I have been very interested in create software and work with linux, currently in my study environment i use Voidlinux and Nvim as ID. I intend to onde day make an engine using Opengl and C, C++ or Rust.
-
+I'm Tiago Sena from Brazil, a computer science student. I love studying Programming languages, especially C and Rust. I've been very interested in creating softwares and working with linux, currently in my study environment I use Voidlinux and Nvim as IDE. I intend to one day make an engine using Opengl and C, C++ or Rust.
 
 
 <div>
